@@ -18,7 +18,7 @@ public class MitTestProjekt
     public static void main(String[] args)
     {
         Robot r = new Robot();
-        System.out.println("Robot:=" + r);
+        System.out.println("Robot:=" + r + "fuck");
     }
     
 }
