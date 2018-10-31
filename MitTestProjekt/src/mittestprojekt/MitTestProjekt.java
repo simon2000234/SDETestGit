@@ -17,8 +17,13 @@ public class MitTestProjekt
      */
     public static void main(String[] args)
     {
+<<<<<<< HEAD
         int r = 3;
         System.out.println("Robot:=" + r + "no shit");
+=======
+        Robot r = new Robot();
+        System.out.println("Robot:=" + r);
+>>>>>>> parent of d7f320e... Update MitTestProjekt/src/mittestprojekt/MitTestProjekt.java
     }
     
 }
